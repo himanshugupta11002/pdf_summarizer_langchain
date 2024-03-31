@@ -1,4 +1,3 @@
-pip install langchain
 pip install PyPDF2
 pip install python-dotenv
 pip install streamlit
