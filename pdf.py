@@ -1,3 +1,11 @@
+pip install langchain==0.0.154
+pip install PyPDF2==3.0.1
+pip install python-dotenv==1.0.0
+pip install streamlit==1.18.1
+pip install faiss-cpu==1.7.4
+pip install streamlit-extras
+
+
 import streamlit as st
 from dotenv import load_dotenv
 import pickle
