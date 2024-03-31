@@ -1,10 +1,3 @@
-pip install PyPDF2
-pip install python-dotenv
-pip install streamlit
-pip install faiss-cpu
-pip install streamlit-extras
-
-
 import streamlit as st
 from dotenv import load_dotenv
 import pickle
